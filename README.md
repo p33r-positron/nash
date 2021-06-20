@@ -1,2 +1,2 @@
 # nash
-Node A SHell : Equivalent of bash or batch in NodeJS
+Node-A-SHell : Equivalent of bash or batch in NodeJS
