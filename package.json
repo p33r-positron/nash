@@ -1,0 +1,23 @@
+{
+  "name": "nash",
+  "version": "1.0.0",
+  "description": "Node-A-SHell : Equivalent of bash or batch in NodeJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p33r-positron/nash.git"
+  },
+  "keywords": [
+    "shell",
+    "nash"
+  ],
+  "author": "Positron",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/p33r-positron/nash/issues"
+  },
+  "homepage": "https://github.com/p33r-positron/nash#readme",
+  "bin": {
+    "nash": "index.js"
+  }
+}
